@@ -1,0 +1,5 @@
+Since the dataset is bigger in size, the users are asked to download it directly from KAGGLE
+
+Link: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
+
+Glioma, Meningioma, Pituitary, No Tumor
